@@ -43,7 +43,7 @@ Developed on Windows 7 and Raspberry Pi 3.
 	
 		
 	5. Compile OpenCV 
-	# This should be the step after step 4 (installing python modules)
+	*This should be the step after step 4 (installing python modules)
 		On Windows:
 		
 			Requirements: 

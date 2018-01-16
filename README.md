@@ -17,7 +17,7 @@ Developed on Windows 7 and Raspberry Pi 3.
     - numpy
     - matplotlib
     - Visual Studio 2012 Express
-		- CMake GUI / CMake
+		- CMake 2.8.11.2 GUI / CMake
 
 	1. Get OpenCV 3.1.0 from OpenCV Master archive
 		a. On Windows: Download and extract the archive

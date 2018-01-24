@@ -60,9 +60,9 @@ Developed on Windows 7 and Raspberry Pi 3.
 			7. Select the "OPENCV_EXTRA_MODULES_PATH" and browse the "opencv_contrib-3.1.0\modules"
 			8. Generate and this will create "OpenCV.sln" 
 			9. Open the "OpenCV.sln" with Visual Studio 2012
-			10. In solution explorer right-click on ALL_BUILD and build (this is the debug)
-			11. Once the debug is built, select (RELEASE) and build again
-			12. After that, build (RELEASE) for INSTALL and then build once again on (debug).
+			10. In solution explorer right-click on ALL_BUILD and build (this is the Debug)
+			11. Once the debug is built, select (Release) and build again
+			12. After that, build (Release) for INSTALL and then build once again on (Debug).
 			13. Everything will be created in the "install" folder
 			14. Copy "cv2.pyd" from "build\lib\Release" to "C:\Python27\Lib\site-packages"
 			15. Create In system variable (To use with Visual Studio)

@@ -1,7 +1,7 @@
 # PythonOpenCV
 
 Based on Rodrigo Agundez code at PyData Tutorial. https://github.com/rragundez/PyData
-For explanation search PyData video on youtube.
+For explanation search PyData video on youtube or visit https://www.youtube.com/watch?v=MDaZtJPv3Ik directly.
 Developed on Windows 7 and Raspberry Pi 3.
 
 - IDE used: PyCharm Edu v3.0.1
